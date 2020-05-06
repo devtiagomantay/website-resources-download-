@@ -31,7 +31,7 @@ Creates virtual environment
 
 Activate virtual environment
 
-> virtualenv .venv/bin/activate
+> source .venv/bin/activate
 
 To deactivate virtual environment
 
