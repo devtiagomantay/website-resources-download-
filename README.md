@@ -26,7 +26,7 @@ Listening on http://localhost:8080/
 The open the browser on localhost on 8080 port
 
 
-To create virtualenv:
+To install virtualenv:
 
 > sudo pip install virtualenv
 
